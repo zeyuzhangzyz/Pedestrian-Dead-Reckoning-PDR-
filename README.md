@@ -1,5 +1,2 @@
 # Pedestrian-Dead-Reckoning-PDR
-一个关于PDR行人重识别的算法部分。一个关于PDR行人重识别的算法部分，其中使用了四元数方法和分解向量方法来进行一个权衡，使用到了互补滤波、插值等各种方法。运行前需要将文件放到对应目录，或者修改对应目录。
-可以达到较好的效果。
-参考模型的分析过程，已经添加，前端后端的代码因非本人完成，无法提供。
-报告PDF已添加
+This is a section of the algorithm related to pedestrian re-identification in PDR. The algorithm employs both quaternion methods and decomposition vector methods to achieve a balance, using various techniques such as complementary filtering and interpolation. Before running, the files must be placed in the corresponding directory, or the directory should be modified accordingly. The approach can achieve good results. The analysis process of the reference model has been included. The PDF report has been attached.
